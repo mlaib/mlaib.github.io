@@ -24,7 +24,7 @@ if (document.getElementsByClassName('demo').length > 0) {
             > R and Python programming.
 			
 			In this website you find some papers and libraries, Enjoy!!!`;
-  var speed = 20;
+  var speed = 15;
 
   function typeItOut () {
     if (i < txt.length) {
