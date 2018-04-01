@@ -26,7 +26,12 @@ p {
   color: #4A4A4A;
 }
 
-a, a:hover {
+a {
+  text-decoration: none;
+  color: #fe696a;
+}
+
+a:hover {
   text-decoration: none;
   color: var(--primary-color);
 }
