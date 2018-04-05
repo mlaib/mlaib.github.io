@@ -19,12 +19,13 @@ if (document.getElementsByClassName('demo').length > 0) {
             ### Areas of interest: 
             > Machine learning and statistics.
             > Data mining.
-			> Network science.
+	    > Network science.
             > Time series.
             > R and Python programming.
+	    > Deep learning and scene classification.
 			
 			In this website you find some papers and libraries, Enjoy!!!`;
-  var speed = 15;
+  var speed = 13;
 
   function typeItOut () {
     if (i < txt.length) {
