@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mlaib
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mlaib.github.io
+  * I am mlaib (https://keybase.io/mlaib) on keybase.
+  * I have a public key ASDOIr5otLR_Kr-qXPD10q9DHh3S0q6WY8l0FLJb4NIbfgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ce22be68b4b47f2abfaa5cf0f5d2af431e1dd2d2ae9663c97414b25be0d21b7e0a",
+      "host": "keybase.io",
+      "kid": "0120ce22be68b4b47f2abfaa5cf0f5d2af431e1dd2d2ae9663c97414b25be0d21b7e0a",
+      "uid": "af0274f081f8a75205b9ff413b9f7119",
+      "username": "mlaib"
+    },
+    "merkle_root": {
+      "ctime": 1532956256,
+      "hash": "c9b9e933485eb9c895e43463054ee92b149ce038367955947d964d9bf7aaad7610837383ba2632b73555ea4fa22d8f903d7c4952ed0a364ff113c16077833fd4",
+      "hash_meta": "ab144f54510f6dd8146018620cd85693ab609cd626b56ea66ff43a3c75244ddd",
+      "seqno": 3355262
+    },
+    "service": {
+      "entropy": "ryB8OIzqUr1nt8SbgdSb4Dfn",
+      "hostname": "mlaib.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1532956273,
+  "expire_in": 504576000,
+  "prev": "6835f22b69a95a64120010c8eb1c2fc30dd8e131a23ae534ed1af41845434895",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgziK+aLS0fyq/qlzw9dKvQx4d0tKulmPJdBSyW+DSG34Kp3BheWxvYWTESpcCC8QgaDXyK2mpWmQSABDI6xwvww3Y4TGiOuU07Rr0GEVDSJXEINl75S6HCRhwNLGUUUnK1lSMPFcNDPev0aZKOw4dlepGAgHCo3NpZ8RAsMf7VJklxbLGj9N/B/4v9qb302L2u3U/wHqLrmRXlY2io6wZ3wJLx4aCa4neKOy2rjQn0DgezgdvZ+2hP+qACKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOLII/EjRvu8+4xYlNiyuc8CqTwU/WjzYASmDUyhkeoQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mlaib
+
+==================================================================
