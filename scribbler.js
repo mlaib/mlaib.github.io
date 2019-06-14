@@ -13,16 +13,15 @@ var getAll = function (selector, scope) {
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `I am a statistician, 
-  with a strong interest in computer science and machine learning.
+  interested in computer science and data analysis.
 
   
             ### Areas of interest: 
             > Machine learning and statistics.
             > Data mining.
-	    > Network science.
+	    > Analysis and design of experiments.
             > Time series.
             > R and Python programming.
-	    > Deep learning and scene classification.
 			
 			In this website you find some papers and libraries, Enjoy!!!`;
   var speed = 13;
